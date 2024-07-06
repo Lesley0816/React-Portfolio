@@ -2,7 +2,11 @@ import React from 'react';
 
 function Portfolio() {
   const projects = [
-    { title: 'Project 1', img: 'path_to_img', link: 'deployed_link', repo: 'github_link' },
+    { title: 'Roadtrip-Playlist-Maker', img: 'path_to_img', link: 'https://lesley0816.github.io/Roadtrip-Playlist-Maker/', repo: 'https://github.com/Lesley0816/Roadtrip-Playlist-Maker' },
+
+    { title: 'final-project', img: 'path_to_img', link: 'deployed_link', repo: 'https://github.com/DougyShy/final-project' },
+
+    { title: 'Code Quiz', img: 'path_to_img', link: 'lesley0816.github.io/Code-Quiz/', repo: 'https://github.com/Lesley0816/Code-Quiz' },
     // ... five more projects
   ];
 

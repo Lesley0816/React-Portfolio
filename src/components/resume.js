@@ -3,11 +3,11 @@ import React from 'react';
 function Resume() {
   return (
     <section>
-      <a href="path_to_resume.pdf" download>Download Resume</a>
+      <a href="https://profile.indeed.com/p/lesleym-5ssccoh" download>Download Resume</a>
       <ul>
-        <li>Proficiency 1</li>
-        <li>Proficiency 2</li>
-        <li>Proficiency 3</li>
+        <li>Data Entry</li>
+        <li>Attention to detail </li>
+        <li>Filing & organization 3</li>
         {/* More proficiencies */}
       </ul>
     </section>

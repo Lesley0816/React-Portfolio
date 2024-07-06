@@ -4,7 +4,7 @@ function AboutMe() {
   return (
     <section>
       <img src="path_to_image" alt="Developer" />
-      <p>Short bio about the developer.</p>
+      <p>Short bio about me.</p>
     </section>
   );
 }
